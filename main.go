@@ -2,5 +2,6 @@ package main
 import "fmt"
 
 func main(){
-fmt.println("Hello Bangladesh")
+fmt.println("Hello World")
+fmt.Println("Hello Bangladesh")
 }
