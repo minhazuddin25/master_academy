@@ -3,6 +3,6 @@ import "fmt"
 
 func main(){
 fmt.println("Hello World")
-fmt.Println("Hello Bangladesh")
-fmt.Println("My name is Minhaz uddin")
+fmt.Println("Dhaka is thec capital of Bangladesh")
+fmt.Println("Hello Bangladesh ")
 }
